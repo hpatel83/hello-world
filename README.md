@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi im Hamel.
+
+First web page to github. CS major at GSU!
